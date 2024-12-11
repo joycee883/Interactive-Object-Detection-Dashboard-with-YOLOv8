@@ -25,26 +25,6 @@ Welcome to Vision in Motion, a state-of-the-art object detection application bui
   - Visual Output: View detected objects with bounding boxes and class labels, updated in real-time.
   - Optimized for Performance: Process large videos efficiently using frame intervals to speed up the system.
 
-🔧 Installation Guide
-To run this project locally, follow these steps:
-
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/vision-in-motion.git
-cd vision-in-motion
-Install Dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the Application:
-
-bash
-Copy code
-streamlit run app.py
-
 ## 📚 Usage Instructions
   - Upload a video from the sidebar to start detecting objects in your video.
   - Adjust the confidence threshold and frame interval to suit your needs.
